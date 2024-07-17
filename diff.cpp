@@ -12,7 +12,7 @@ int main() {
   diff = first_number - second_number;
 
   // prints diff
-  cout << first_number << " - " <<  second_number << " = " << diff;     
+  cout << diff;     
   
   return 0;
 }
